@@ -19,4 +19,5 @@ SwiftUI
 AVKit/AVFoundation
 
   
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/3187878/114280257-43e03c80-99ed-11eb-9b39-c73babe1350d.gif)
+![gifgit](https://user-images.githubusercontent.com/3187878/114280480-4727f800-99ee-11eb-8cd7-daba3fba2131.gif)
+
