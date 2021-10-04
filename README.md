@@ -17,9 +17,7 @@ Swift
 SwiftUI
 
 AVKit/AVFoundation
-
-![gifgit](https://user-images.githubusercontent.com/3187878/114280480-4727f800-99ee-11eb-8cd7-daba3fba2131.gif)
-
+<div>
 <img src="https://user-images.githubusercontent.com/3187878/114280480-4727f800-99ee-11eb-8cd7-daba3fba2131.gif" width="150" height="300">
 
 <img src="https://user-images.githubusercontent.com/3187878/124344438-fbb55e00-db86-11eb-808f-913781be1067.PNG" width="150" height="300">
@@ -30,3 +28,4 @@ AVKit/AVFoundation
 <img src="https://user-images.githubusercontent.com/3187878/124344433-f3f5b980-db86-11eb-9bd5-05616a03a0b5.PNG" width="150" height="300">
 <img src="https://user-images.githubusercontent.com/3187878/124344437-fb1cc780-db86-11eb-9b23-d97a32312085.PNG" width="150" height="300">
 
+</div>
