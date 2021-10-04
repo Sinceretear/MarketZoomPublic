@@ -20,6 +20,8 @@ AVKit/AVFoundation
 
 ![gifgit](https://user-images.githubusercontent.com/3187878/114280480-4727f800-99ee-11eb-8cd7-daba3fba2131.gif)
 
+<img src="https://user-images.githubusercontent.com/3187878/114280480-4727f800-99ee-11eb-8cd7-daba3fba2131.gif" width="150" height="300">
+
 <img src="https://user-images.githubusercontent.com/3187878/124344438-fbb55e00-db86-11eb-808f-913781be1067.PNG" width="150" height="300">
 <img src="https://user-images.githubusercontent.com/3187878/124344423-ec361500-db86-11eb-80b9-83a30059d8d6.PNG" width="150" height="300">
 <img src="https://user-images.githubusercontent.com/3187878/124344426-edffd880-db86-11eb-8290-e59134b3233f.PNG" width="150" height="300">
