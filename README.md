@@ -26,5 +26,5 @@ AVKit/AVFoundation
 <img src="https://user-images.githubusercontent.com/3187878/124344430-f2c48c80-db86-11eb-9f2e-5afc2883fbed.PNG" width="150" height="300">
 <img src="https://user-images.githubusercontent.com/3187878/124344432-f35d2300-db86-11eb-916e-e13e3930c891.PNG" width="150" height="300">
 <img src="https://user-images.githubusercontent.com/3187878/124344433-f3f5b980-db86-11eb-9bd5-05616a03a0b5.PNG" width="150" height="300">
-<img src="https://user-images.githubusercontent.com/3187878/124344437-fb1cc780-db86-11eb-9b23-d97a32312085.PNG" width="150" height="300"">
+<img src="https://user-images.githubusercontent.com/3187878/124344437-fb1cc780-db86-11eb-9b23-d97a32312085.PNG" width="150" height="300">
 
